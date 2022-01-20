@@ -1,6 +1,6 @@
 **Hello everyone!**
 
-**My name is Suhov Vladimir, and I am studying at ITMO university ♥️ **
+**My name is Suhov Vladimir, and I am studying at ITMO university ♥️**
 
 **Python backend developer**
 
