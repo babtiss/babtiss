@@ -5,6 +5,7 @@
 
 **_I have some skills:_**
 
+- Go
 - Python (Django, Django-rest)
 - OOP, Algorithms and data structures
 - docker, docker-compose
