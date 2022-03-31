@@ -9,8 +9,9 @@
 - Python (Django, Django-rest)
 - OOP, Algorithms and data structures
 - docker, docker-compose
-- html, css
-- PostgreeSQL
+- html, css, js
+- PostgreeSQL, MySQL, YT
+- yaml, git, arcadia
 
 I hope you can find something useful for yourself on this git-page
 
