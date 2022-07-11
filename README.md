@@ -1,9 +1,9 @@
 **Hello everyone!**
-### <h3 align="left">My name is Suhov Vladimir, and I am studying at ITMO university ♥️</h3>
+### <h3 align="left">My name is Vladimir, and I am studying at university ♥️</h3>
 
 #### I'm backend developer 
 
-**_I have some skills:_**
+**_My stack:_**
 
 - Go
 - Python (Django, Django-rest)
