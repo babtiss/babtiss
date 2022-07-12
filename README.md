@@ -1,7 +1,5 @@
-**Hello everyone!**
-### <h3 align="left">My name is Vladimir, and I am studying at university ♥️</h3>
-
-#### I'm backend developer 
+### <h3 align="left">Hello everyone! My name is Vladimir, and I am studying at university ♥️</h3>
+### I'm backend developer and I hope you can find something useful for yourself on this git
 
 **_My stack:_**
 
@@ -12,8 +10,6 @@
 - html, css, js
 - PostgreeSQL, MySQL
 - yaml, git, arcadia
-
-I hope you can find something useful for yourself on this git
 
 **_My social networks:_**
 
