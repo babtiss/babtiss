@@ -5,15 +5,15 @@
 
 **_My stack:_**
 
-- Go
+- Go (Gorilla, Gin)
 - Python (Django, Django-rest)
-- OOP, Algorithms and data structures
+- OOP, Algorithms and data structures, Math
 - docker, docker-compose
 - html, css, js
-- PostgreeSQL, MySQL, YT
+- PostgreeSQL, MySQL
 - yaml, git, arcadia
 
-I hope you can find something useful for yourself on this git-page
+I hope you can find something useful for yourself on this git
 
 **_My social networks:_**
 
