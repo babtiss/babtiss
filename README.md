@@ -9,7 +9,7 @@
 - docker, docker-compose
 - html, css, js
 - PostgreeSQL, MySQL
-- yaml, git, arcadia
+- yml, git, arcadia
 
 **_My social networks:_**
 
