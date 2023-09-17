@@ -4,9 +4,9 @@
 
 ### 📈 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=minstradamuss&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=babtiss&color=blueviolet)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babtiss&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://t.me/Babtis"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
